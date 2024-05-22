@@ -1,0 +1,8 @@
+{
+  "name": "beonews",
+  "displayName": "beonews",
+  "react-native-google-mobile-ads": {
+    "android_app_id": "ca-app-pub-3940256099942544~3347511713",
+    "ios_app_id": "ca-app-pub-2101182411274198/9145196933"
+  }
+}

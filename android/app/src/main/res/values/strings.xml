@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">BeoNews</string>
+    <string name="facebook_app_id">1809822172592320</string>
+    <string name="fb_login_protocol_scheme">fb1809822172592320</string>
+</resources>

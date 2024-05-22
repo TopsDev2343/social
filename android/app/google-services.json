@@ -1,0 +1,50 @@
+{
+  "project_info": {
+    "project_number": "1008301626030",
+    "firebase_url": "https://beonews-ef22f.firebaseio.com",
+    "project_id": "beonews-ef22f",
+    "storage_bucket": "beonews-ef22f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1008301626030:android:86dddd6db62322ae",
+        "android_client_info": {
+          "package_name": "com.beonews"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1008301626030-pt5sjr6l0v32q47pe70jld9k1o6tdagj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.beonews",
+            "certificate_hash": "8fead6de48f404758a605856e834a2ec94bf5460"
+          }
+        },
+        {
+          "client_id": "1008301626030-bpjn6ui5cn7a59i52m9ta9pon2he12ru.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCE_O7PW2q6plcN8_Q6ox_iWcK0HIoSlgY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

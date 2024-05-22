@@ -1,0 +1,22 @@
+{
+  "compilerOptions": {
+    "baseUrl": "./App/",
+    "paths": {
+      "@navigation": ["Navigation"],
+      "@containers": ["Containers"],
+      "@container": ["Containers"],
+      "@components": ["Components"],
+      "@common": ["Common"],
+      "@redux": ["Redux"],
+      "@expo": ["Expo"],
+      "@services": ["Services"],
+
+      "@redux/*": ["Redux/*"],
+      "@container/*": ["Containers/*"],
+      "@services/*": ["Services/*"],
+      "@navigation/*": ["Navigation/*"],
+      "@common/*": ["Common/*"]
+    }
+  },
+  "exclude": ["node_modules"]
+}
